@@ -1,0 +1,22 @@
+{
+  "name": "css-battle",
+  "version": "1.0.0",
+  "description": "My entries in [CSS Battle!](https://cssbattle.dev/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohrongying/css-battle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kohrongying/css-battle/issues"
+  },
+  "homepage": "https://github.com/kohrongying/css-battle#readme",
+  "dependencies": {
+    "lit-html": "^1.0.0"
+  }
+}
