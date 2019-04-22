@@ -1,0 +1,16 @@
+{
+  "entrypoint": "index.html",
+  "shell": "index.js",
+  "sources": [
+    "src/**.js",
+    "manifest/**",
+    "package.json",
+    "2019/*.png"
+  ],
+  "extraDependencies": [
+    "node_modules/@webcomponents/webcomponentsjs/bundles/**"
+  ],
+  "builds": [
+    {"preset": "es6-bundled"}
+  ]
+}
