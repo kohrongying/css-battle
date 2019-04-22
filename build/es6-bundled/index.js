@@ -301,7 +301,7 @@ _exports.$render=render$1;(window.litHtmlVersions||(window.litHtmlVersions=[])).
       <div style="padding: 50px;">
         <h2 style="text-align:center;">Target ${item.id}</h2>
         <div style="display:flex;justify-content:center; align-items:center; flex-direction: column">
-          <img src="/2019/target${item.id}.png" width=400 height=300>
+          <img src="2019/target${item.id}.png" width=400 height=300>
           <div style="width: 380px; 
                       overflow-wrap: break-word; 
                       background: lightgrey;
